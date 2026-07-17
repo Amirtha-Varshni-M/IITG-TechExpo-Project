@@ -1,0 +1,6 @@
+{
+  "name": "Aletheia",
+  "description": "Unified civilian damage verification platform for conflict zones, featuring AI cross-verification, predictive early warning, and automated legal dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
